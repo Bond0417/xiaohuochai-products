@@ -1,0 +1,17 @@
+# 小火柴瓷砖产品资料
+
+十款样板产品的规格、颜色、单片图及素材。
+
+- [完整文字资料](https://bond0417.github.io/xiaohuochai-products/catalog.txt)
+- [结构化目录](https://bond0417.github.io/xiaohuochai-products/catalog.json)
+- [素材下载](https://bond0417.github.io/xiaohuochai-products/materials.html)
+- [小火柴 莱姆石砖 奶白色 SAD2A600MI1](https://bond0417.github.io/xiaohuochai-products/product-SAD2A600MI1.html)
+- [小火柴 度假风石纹砖 灰色 SAD1A612MG2](https://bond0417.github.io/xiaohuochai-products/product-SAD1A612MG2.html)
+- [小火柴 长条木纹砖 浅木色 FAC3W218MC1](https://bond0417.github.io/xiaohuochai-products/product-FAC3W218MC1.html)
+- [小火柴 通铺木纹砖 浅木色 FAF1W612MY2](https://bond0417.github.io/xiaohuochai-products/product-FAF1W612MY2.html)
+- [小火柴 方形手工砖 米白色 FAL2K100MI1](https://bond0417.github.io/xiaohuochai-products/product-FAL2K100MI1.html)
+- [小火柴 陶土仿古砖 暖米白色 FAL1A200MI1](https://bond0417.github.io/xiaohuochai-products/product-FAL1A200MI1.html)
+- [小火柴 长条手工砖 暖米白 FAL3K520MI1](https://bond0417.github.io/xiaohuochai-products/product-FAL3K520MI1.html)
+- [小火柴 素色小方砖 草绿色 QAH4P100MN1](https://bond0417.github.io/xiaohuochai-products/product-QAH4P100MN1.html)
+- [小火柴 磨砂石纹砖 浅米灰色 FAE1A600MG1](https://bond0417.github.io/xiaohuochai-products/product-FAE1A600MG1.html)
+- [小火柴 清水砼水泥纹砖 灰色 FAE2C600MG1](https://bond0417.github.io/xiaohuochai-products/product-FAE2C600MG1.html)
